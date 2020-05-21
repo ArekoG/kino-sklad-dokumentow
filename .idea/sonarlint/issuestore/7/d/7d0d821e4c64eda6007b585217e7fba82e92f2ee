@@ -1,0 +1,18 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¡Ó¢ıÿÿÿÿ8™Ÿ¢.
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(øºÑûúÿÿÿÿ8™Ÿ¢.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ô–£ı8™Ÿ¢.
+U	java:S106S"9Replace this use of System.out or System.err by a logger.(½ğ±ˆ8™Ÿ¢.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÙÈµÛ8™Ÿ¢.
+U	java:S106U"9Replace this use of System.out or System.err by a logger.(½ğ±ˆ8™Ÿ¢.
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ÂÑØ€ùÿÿÿÿ8™Ÿ¢.
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(øºÑûúÿÿÿÿ8™Ÿ¢.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(âåÏ»8™Ÿ¢.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Œ­¬æ8™Ÿ¢.
+
+java:S1130""qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(õÖÊ™8Êµ˜“¢.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(±—îßûÿÿÿÿ8™Ÿ¢.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(›’¾Çüÿÿÿÿ8™Ÿ¢.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‰éÆ‚8™Ÿ¢.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ßäš‚8™Ÿ¢.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¯„ğ»8™Ÿ¢.
