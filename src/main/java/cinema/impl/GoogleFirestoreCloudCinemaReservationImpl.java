@@ -3,7 +3,10 @@ package cinema.impl;
 import cinema.CinemaReservation;
 import cinema.ICinemaReservation;
 import com.google.api.core.ApiFuture;
-import com.google.cloud.firestore.*;
+import com.google.cloud.firestore.DocumentReference;
+import com.google.cloud.firestore.DocumentSnapshot;
+import com.google.cloud.firestore.Firestore;
+import com.google.cloud.firestore.QuerySnapshot;
 import com.google.firebase.cloud.FirestoreClient;
 import common.Constants;
 import common.Statistic;
@@ -20,7 +23,6 @@ public class GoogleFirestoreCloudCinemaReservationImpl implements ICinemaReserva
     @Override
     public Long add(CinemaReservation cinemaReservation) {
         Firestore db = FirestoreClient.getFirestore();
-        CollectionReference collection = db.collection(Constants.COLLECTION_NAME);
         long reservationNumber = ThreadLocalRandom.current().nextLong(1, 10000000);
         DocumentReference reservation = db.collection(Constants.COLLECTION_NAME).document(String.valueOf(reservationNumber));
         cinemaReservation.setReservationNumber(reservationNumber);

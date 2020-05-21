@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb9ce806-8ede-4bda-9452-58e32133b081" name="Default Changelist" comment="" />
+    <list default="true" id="eb9ce806-8ede-4bda-9452-58e32133b081" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/cinema/impl/GoogleFirestoreCloudCinemaReservationImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cinema/impl/GoogleFirestoreCloudCinemaReservationImpl.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1byzAgHRYWPpxW169YOaRWKioRu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -80,7 +86,7 @@
       <workItem from="1589703384648" duration="15223000" />
       <workItem from="1589723497237" duration="3950000" />
       <workItem from="1589818906882" duration="9792000" />
-      <workItem from="1590078001574" duration="7482000" />
+      <workItem from="1590078001574" duration="8089000" />
     </task>
     <servers />
   </component>
@@ -112,30 +118,30 @@
     <state x="-221" y="1307" key="#xdebugger.evaluate/0.0.1920.1040/984.1087.1920.1040/-936.1080.1920.1040@-936.1080.1920.1040" timestamp="1589716115053" />
     <state x="1699" y="1314" width="490" height="585" key="#xdebugger.evaluate/0.0.1920.1040/984.1087.1920.1040/-936.1080.1920.1040@984.1087.1920.1040" timestamp="1589722207619" />
     <state x="2635" y="234" width="611" height="586" key="#xdebugger.evaluate/779.-1080.1920.1040/1920.7.1920.1040/0.0.1920.1040@1920.7.1920.1040" timestamp="1589833064701" />
-    <state width="1877" height="380" key="GridCell.Tab.0.bottom" timestamp="1590087662640">
+    <state width="1877" height="380" key="GridCell.Tab.0.bottom" timestamp="1590089447921">
       <screen x="1920" y="7" width="1920" height="1040" />
     </state>
     <state width="1877" height="339" key="GridCell.Tab.0.bottom/0.0.1920.1040/984.1087.1920.1040/-936.1080.1920.1040@-936.1080.1920.1040" timestamp="1589716156063" />
     <state width="1877" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1040/984.1087.1920.1040/-936.1080.1920.1040@984.1087.1920.1040" timestamp="1589751779783" />
-    <state width="1877" height="380" key="GridCell.Tab.0.bottom/779.-1080.1920.1040/1920.7.1920.1040/0.0.1920.1040@1920.7.1920.1040" timestamp="1590087662640" />
-    <state width="1877" height="380" key="GridCell.Tab.0.center" timestamp="1590087662640">
+    <state width="1877" height="380" key="GridCell.Tab.0.bottom/779.-1080.1920.1040/1920.7.1920.1040/0.0.1920.1040@1920.7.1920.1040" timestamp="1590089447921" />
+    <state width="1877" height="380" key="GridCell.Tab.0.center" timestamp="1590089447921">
       <screen x="1920" y="7" width="1920" height="1040" />
     </state>
     <state width="1877" height="339" key="GridCell.Tab.0.center/0.0.1920.1040/984.1087.1920.1040/-936.1080.1920.1040@-936.1080.1920.1040" timestamp="1589716156063" />
     <state width="1877" height="289" key="GridCell.Tab.0.center/0.0.1920.1040/984.1087.1920.1040/-936.1080.1920.1040@984.1087.1920.1040" timestamp="1589751779783" />
-    <state width="1877" height="380" key="GridCell.Tab.0.center/779.-1080.1920.1040/1920.7.1920.1040/0.0.1920.1040@1920.7.1920.1040" timestamp="1590087662640" />
-    <state width="1877" height="380" key="GridCell.Tab.0.left" timestamp="1590087662640">
+    <state width="1877" height="380" key="GridCell.Tab.0.center/779.-1080.1920.1040/1920.7.1920.1040/0.0.1920.1040@1920.7.1920.1040" timestamp="1590089447921" />
+    <state width="1877" height="380" key="GridCell.Tab.0.left" timestamp="1590089447921">
       <screen x="1920" y="7" width="1920" height="1040" />
     </state>
     <state width="1877" height="339" key="GridCell.Tab.0.left/0.0.1920.1040/984.1087.1920.1040/-936.1080.1920.1040@-936.1080.1920.1040" timestamp="1589716156062" />
     <state width="1877" height="289" key="GridCell.Tab.0.left/0.0.1920.1040/984.1087.1920.1040/-936.1080.1920.1040@984.1087.1920.1040" timestamp="1589751779783" />
-    <state width="1877" height="380" key="GridCell.Tab.0.left/779.-1080.1920.1040/1920.7.1920.1040/0.0.1920.1040@1920.7.1920.1040" timestamp="1590087662640" />
-    <state width="1877" height="380" key="GridCell.Tab.0.right" timestamp="1590087662640">
+    <state width="1877" height="380" key="GridCell.Tab.0.left/779.-1080.1920.1040/1920.7.1920.1040/0.0.1920.1040@1920.7.1920.1040" timestamp="1590089447921" />
+    <state width="1877" height="380" key="GridCell.Tab.0.right" timestamp="1590089447921">
       <screen x="1920" y="7" width="1920" height="1040" />
     </state>
     <state width="1877" height="339" key="GridCell.Tab.0.right/0.0.1920.1040/984.1087.1920.1040/-936.1080.1920.1040@-936.1080.1920.1040" timestamp="1589716156063" />
     <state width="1877" height="289" key="GridCell.Tab.0.right/0.0.1920.1040/984.1087.1920.1040/-936.1080.1920.1040@984.1087.1920.1040" timestamp="1589751779783" />
-    <state width="1877" height="380" key="GridCell.Tab.0.right/779.-1080.1920.1040/1920.7.1920.1040/0.0.1920.1040@1920.7.1920.1040" timestamp="1590087662640" />
+    <state width="1877" height="380" key="GridCell.Tab.0.right/779.-1080.1920.1040/1920.7.1920.1040/0.0.1920.1040@1920.7.1920.1040" timestamp="1590089447921" />
     <state width="1877" height="339" key="GridCell.Tab.1.bottom" timestamp="1589833157057">
       <screen x="1920" y="7" width="1920" height="1040" />
     </state>
@@ -196,12 +202,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/cinema/impl/GoogleFirestoreCloudCinemaReservationImpl.java</url>
-          <line>68</line>
+          <line>70</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/cinema/impl/GoogleFirestoreCloudCinemaReservationImpl.java</url>
-          <line>55</line>
+          <line>57</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
